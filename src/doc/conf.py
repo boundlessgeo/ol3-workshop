@@ -99,7 +99,7 @@ html_theme = 'default'
 #html_theme_options = {}
 
 # Add any paths that contain custom themes here, relative to this directory.
-html_theme_path = ['../../../../themes']
+html_theme_path = ['../../themes','../../../workshops.git/themes']
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
@@ -173,7 +173,7 @@ latex_font_size = '10pt'
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
   ('index', 'OpenLayersWorkshop.tex', u'OpenLayers Workshop Documentation',
-   u'OpenGeo', 'manual'),
+   u'Boundless', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
