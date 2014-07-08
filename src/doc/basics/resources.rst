@@ -35,7 +35,7 @@ Join the Community
 
 OpenLayers is supported and maintained by a community of developers and users like you. Whether you have questions to ask or code to contribute, you can get involved by signing up for the mailing list.
 
- * https://groups.google.com/forum/#!forum/ol3-dev
+* https://groups.google.com/forum/#!forum/ol3-dev
 
 Reporting issues
 ----------------

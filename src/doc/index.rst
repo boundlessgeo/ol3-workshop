@@ -13,7 +13,8 @@ iteratively build up the reader's knowledge base.
 
 The following modules will be covered in this workshop:
 
-.. rubric:: Fundamentals
+Fundamentals
+------------
 
 :ref:`config`
   Learn how to add a map to a webpage with ol3.
@@ -25,7 +26,8 @@ The following modules will be covered in this workshop:
   Learn about using map controls.
 
     
-.. rubric:: Advanced Topics
+Advanced Topics
+---------------
 
 :ref:`styling`
   Explore vector layers in depth.

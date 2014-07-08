@@ -34,12 +34,12 @@ Moving the ScaleLine Control
 You may find the scale bar a bit hard to read over the imagery. There are a few approaches to take in order to improve scale visibility.  If you want to keep the control inside the map viewport, you can add some style declarations within the CSS of your document. To test this out, you can include a background color and padding to the scale bar with something like the following:
 
 
-    .. code-block:: html
+.. code-block:: html
 
-        .ol-scale-line, .ol-scale-line:not([ie8andbelow]) {
-          background: black;
-          padding: 5px;
-        }
+   .ol-scale-line, .ol-scale-line:not([ie8andbelow]) {
+      background: black;
+      padding: 5px;
+    }
 
 
 However, for the sake of this exercise, let's say you think the map viewport is getting unbearably crowded. To avoid such over-crowding, you can display the scale in a different location. To accomplish this, we need to first create an additional element in our markup and then tell the scale control to render itself within this new element.
